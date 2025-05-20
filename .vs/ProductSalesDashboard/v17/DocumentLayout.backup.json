@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\services\\isalesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\services\\isalesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\productsalesdashboard.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\productsalesdashboard.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|c:\\users\\mdumisenim\\downloads\\myworkspace\\finalwork\\productsalesdashboard\\productsalesdashboard.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA7F49-0C74-4E5D-B222-F828ADCEA181}|ProductSalesDashboard.API\\ProductSalesDashboard.API.csproj|solutionrelative:productsalesdashboard.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T03:25:51.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductSalesDashboard.API.http",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\ProductSalesDashboard.API.http",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\ProductSalesDashboard.API.http",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\ProductSalesDashboard.API.http",
+              "RelativeToolTip": "ProductSalesDashboard.API\\ProductSalesDashboard.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-19T21:08:46.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\appsettings.Development.json",
+              "RelativeToolTip": "ProductSalesDashboard.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T21:08:29.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:04:35.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:04:19.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\appsettings.json",
+              "RelativeToolTip": "ProductSalesDashboard.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T21:03:29.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesService.cs",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Services\\SalesService.cs",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Services\\SalesService.cs",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Services\\SalesService.cs",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Services\\SalesService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:01:15.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:01:04.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISalesService.cs",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Services\\ISalesService.cs",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Services\\ISalesService.cs",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Services\\ISalesService.cs",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Services\\ISalesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:58:46.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:58:11.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:52:26.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Models\\Sale.cs",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:51:03.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Models\\Product.cs",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:50:57.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductSalesDashboard.API\\Program.cs",
+              "ToolTip": "C:\\Users\\MdumiseniM\\Downloads\\MyWorkspace\\FinalWork\\ProductSalesDashboard\\ProductSalesDashboard.API\\Program.cs",
+              "RelativeToolTip": "ProductSalesDashboard.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:48:54.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -43,3 +43,4 @@ C:\Users\MdumiseniM\Downloads\MyWorkspace\FinalWork\ProductSalesDashboard\Produc
 C:\Users\MdumiseniM\Downloads\MyWorkspace\FinalWork\ProductSalesDashboard\ProductSalesDashboard.API\obj\Debug\net8.0\ProductSalesDashboard.API.pdb
 C:\Users\MdumiseniM\Downloads\MyWorkspace\FinalWork\ProductSalesDashboard\ProductSalesDashboard.API\obj\Debug\net8.0\ProductSalesDashboard.API.genruntimeconfig.cache
 C:\Users\MdumiseniM\Downloads\MyWorkspace\FinalWork\ProductSalesDashboard\ProductSalesDashboard.API\obj\Debug\net8.0\ref\ProductSalesDashboard.API.dll
+C:\Users\MdumiseniM\Downloads\MyWorkspace\FinalWork\ProductSalesDashboard\ProductSalesDashboard.API\obj\Debug\net8.0\ProductSalesDashboard.API.sourcelink.json
